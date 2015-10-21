@@ -1,0 +1,222 @@
+<people>
+    <person id="0001">
+        <firstname>George R. R.</firstname>
+        <lastname>Martin</lastname>
+        <birthdate>1984-09-20T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>90</weight>
+            <height>1.70</height>
+            <bmi>31.14</bmi>
+        </healthprofile>
+    </person>
+    <person id="0002">
+        <firstname>Giorgio</firstname>
+        <lastname>Bianchi</lastname>
+        <birthdate>1989-10-02T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>70</weight>
+            <height>1.90</height>
+            <bmi>24.20</bmi>
+        </healthprofile>
+    </person>
+    <person id="0003">
+        <firstname>Leonardo</firstname>
+        <lastname>Martini</lastname>
+        <birthdate>1992-02-08T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>50</weight>
+            <height>1.40</height>
+            <bmi>25.50</bmi>
+        </healthprofile>
+    </person>
+    <person id="0004">
+        <firstname>Maurizio</firstname>
+        <lastname>Rossi</lastname>
+        <birthdate>1982-08-13T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>40</weight>
+            <height>1.50</height>
+            <bmi>17.80</bmi>
+        </healthprofile>
+    </person>
+    <person id="0005">
+        <firstname>Marco</firstname>
+        <lastname>Martinelli</lastname>
+        <birthdate>1990-05-09T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>80</weight>
+            <height>2.00</height>
+            <bmi>20.00</bmi>
+        </healthprofile>
+    </person>
+    <person id="0006">
+        <firstname>George</firstname>
+        <lastname>Dumbrava</lastname>
+        <birthdate>1991-10-27T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>85</weight>
+            <height>1.80</height>
+            <bmi>26.20</bmi>
+        </healthprofile>
+    </person>
+    <person id="0007">
+        <firstname>Mirko</firstname>
+        <lastname>Banfi</lastname>
+        <birthdate>1972-09-29T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>100</weight>
+            <height>2.00</height>
+            <bmi>25.00</bmi>
+        </healthprofile>
+    </person>
+    <person id="0008">
+        <firstname>Libero</firstname>
+        <lastname>Martini</lastname>
+        <birthdate>1951-10-10T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>90</weight>
+            <height>1.50</height>
+            <bmi>40.00</bmi>
+        </healthprofile>
+    </person>
+    <person id="0009">
+        <firstname>Davide</firstname>
+        <lastname>Trovato</lastname>
+        <birthdate>1997-10-27T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>80</weight>
+            <height>1.75</height>
+            <bmi>26.10</bmi>
+        </healthprofile>
+    </person>
+    <person id="0010">
+        <firstname>Leone</firstname>
+        <lastname>Bianchi</lastname>
+        <birthdate>1994-02-27T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>85</weight>
+            <height>1.80</height>
+            <bmi>26.20</bmi>
+        </healthprofile>
+    </person>
+    <person id="0011">
+        <firstname>Asia</firstname>
+        <lastname>Leonardi</lastname>
+        <birthdate>1983-10-29T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>70</weight>
+            <height>1.60</height>
+            <bmi>27.30</bmi>
+        </healthprofile>
+    </person>
+    <person id="0012">
+        <firstname>Cristina</firstname>
+        <lastname>Ruffino</lastname>
+        <birthdate>1989-10-22T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>60</weight>
+            <height>1.70</height>
+            <bmi>20.80</bmi>
+        </healthprofile>
+    </person>
+    <person id="0013">
+        <firstname>Alberto</firstname>
+        <lastname>Lucchini</lastname>
+        <birthdate>1980-10-22T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>89</weight>
+            <height>1.65</height>
+            <bmi>32.70</bmi>
+        </healthprofile>
+    </person>
+    <person id="0014">
+        <firstname>Pio</firstname>
+        <lastname>Tambosi</lastname>
+        <birthdate>1993-12-31T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>75</weight>
+            <height>1.90</height>
+            <bmi>20.80</bmi>
+        </healthprofile>
+    </person>
+    <person id="0015">
+        <firstname>Martino</firstname>
+        <lastname>Verdi</lastname>
+        <birthdate>1993-10-26T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>60</weight>
+            <height>1.90</height>
+            <bmi>16.60</bmi>
+        </healthprofile>
+    </person>
+    <person id="0016">
+        <firstname>Maria</firstname>
+        <lastname>Martini</lastname>
+        <birthdate>1982-09-23T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>70</weight>
+            <height>1.50</height>
+            <bmi>31.10</bmi>
+        </healthprofile>
+    </person>
+    <person id="0017">
+        <firstname>Luca</firstname>
+        <lastname>Micheli</lastname>
+        <birthdate>1992-09-18T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>65</weight>
+            <height>1.50</height>
+            <bmi>28.90</bmi>
+        </healthprofile>
+    </person>
+    <person id="0018">
+        <firstname>Pasquale</firstname>
+        <lastname>Zagaria</lastname>
+        <birthdate>1961-10-22T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>100</weight>
+            <height>1.90</height>
+            <bmi>27.70</bmi>
+        </healthprofile>
+    </person>
+    <person id="0019">
+        <firstname>Valentino</firstname>
+        <lastname>Pasquali</lastname>
+        <birthdate>1990-12-29T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>80</weight>
+            <height>1.80</height>
+            <bmi>24.70</bmi>
+        </healthprofile>
+    </person>
+    <person id="0020">
+        <firstname>Michele</firstname>
+        <lastname>Sebastianis</lastname>
+        <birthdate>1991-09-22T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-10-10T18:00:00.000+02:00</lastupdate>
+            <weight>40</weight>
+            <height>1.40</height>
+            <bmi>20.40</bmi>
+        </healthprofile>
+    </person>    
+</people>
